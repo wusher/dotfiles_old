@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/maudite/_dev/brew_log'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/maudite/_dev/notepad'
+let g:netrw_dirhist_2='/Users/maudite/_dev/chat_server'
+let g:netrw_dirhist_3='/Users/maudite/_dev/nodechat'
+let g:netrw_dirhist_4='/Users/maudite/_dev/notepad'
+let g:netrw_dirhist_5='/Users/maudite/_dev/brew_calculator'
+let g:netrw_dirhist_6='/Users/maudite/temp'
